@@ -7,6 +7,7 @@ pipeline {
                 sh 'python3 --version'
                 sh 'python3 pipeline.py'
                 sh 'echo merhaba bekir denenfgdfgdghdfghdfgfg'
+                sh 'echo nasılsın'
             }
         }
     }
