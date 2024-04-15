@@ -6,7 +6,7 @@ pipeline {
                 echo 'Welcome to TechPro Education IT Bootcamp! '
                 sh 'python3 --version'
                 sh 'python3 pipeline.py'
-                sh 'echo merhaba bekir denenfgdfgdfg'
+                sh 'echo merhaba bekir denenfgdfgdghdfghdfgfg'
             }
         }
     }
